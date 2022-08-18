@@ -51,9 +51,9 @@
 ## Project 1
   #### This project won't be using the gitignore file
 ## Project 2
-  ####
-##
-
-##
-
+  #### On this Project the .vs file as it does't seem that important to the projects created on Visual Studio
+## Project 3
+  #### This project since it might contain the login credentials to the App, the gitignore file will be used to ignore the file that has the Credentials that might aid in logging into the app
+## Project 4
+  #### This project at this point I am not sure if it is going to need the gitignore file
 ##
