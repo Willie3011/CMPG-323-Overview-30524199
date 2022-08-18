@@ -46,3 +46,14 @@
 ### Since most of the information related to the work of all the projects to be done is on Project 1, I am planning on creating different Repositories and link those repositories to Project 1. That way I will not waste much time copying and pasting the information related to a project that I need to do
   
   
+# .GitIgnore File
+
+## Project 1
+  #### This project won't be using the gitignore file
+## Project 2
+  ####
+##
+
+##
+
+##
