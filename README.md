@@ -11,7 +11,7 @@
   #### For Project 3 I am going to use the Feature, Release , and Master Branches as I am going to have to gain Access to my previous or another project to complete project 3, which means I am going to update an already available project, and since I can't just commit and push my updates to the main branch I might commit and push my updates to the Feature Branch. After completing all the features and update I am then going to commit and push everything that is final to the Release Branch
   
 ## Project 4
-  #### Project 4 I am going to use the Feature, Release, and Master Branches, because this project is almost like a continuation of the prvious project and thus this project will be treated as a feature and once the project has been completed I am going to commit and push to merge everything with the Master branch 
+  #### Project 4 I am not going to use any branching strategy because the project 3 needs to be cloned and put in a new repoitory for project 4 
 
 ## Project 5
 
